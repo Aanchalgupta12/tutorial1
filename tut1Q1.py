@@ -1,0 +1,11 @@
+#tutorial=1 , Question-1
+name=input("Enter your name:")
+branch=input("enter your branch:")
+gender=input("enter your gender:")
+college=input("enter your college name:")
+age=input("enter your age:")
+print("Name:",name)
+print("branch:",branch)
+print("gender:",gender)
+print("college:",college)
+print("age:",age)
